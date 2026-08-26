@@ -4,7 +4,7 @@
                     ┌─────────────────────────────────────────────┐
                     │              THE CONSTITUTION               │
                     │   laws · gate criterion · target shape ·    │
-                    │   capability charter  (human-signed only)   │
+                    │   capability charter  (human-granted)     │
                     └──────────────────┬──────────────────────────┘
                                        │ binds
         ┌──────────────────────────────┼───────────────────────────────┐

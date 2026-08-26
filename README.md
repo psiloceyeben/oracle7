@@ -88,7 +88,7 @@ explicitly mapped at every step*.
 
 - **The worker** authors candidate capability extensions as inheritable code,
   mined from residue: world events, its own refusals, and the open milestones of
-  its human-signed capability charter.
+  its capability charter.
 - **The gate** exercises every candidate against held-out conversation:
   regression probes against the serving head, a metric floor that never lowers,
   a strict-gain requirement for new capability families, and crash-proof
