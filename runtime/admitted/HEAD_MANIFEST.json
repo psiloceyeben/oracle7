@@ -1,0 +1,28 @@
+{
+ "built_ts": "2026-08-25T19:06:50Z",
+ "chain_tip_to_base": [
+  "oracle_release_runtime_w24",
+  "oracle_release_runtime_w23",
+  "oracle_release_runtime_w22",
+  "oracle_release_runtime_w21",
+  "oracle_release_runtime_w20",
+  "oracle_release_runtime_w19",
+  "oracle_release_runtime_w18",
+  "oracle_release_runtime_w16",
+  "oracle_release_runtime_w15",
+  "oracle_release_runtime_w12",
+  "oracle_release_runtime_w10",
+  "oracle_release_runtime_w6",
+  "oracle_release_runtime_w4",
+  "oracle_release_runtime_w1",
+  "oracle_release_runtime_ao"
+ ],
+ "law": "every consumer (daemon, worker, servers) resolves the head HERE; the manifest is rebuilt on every admission by the daemon",
+ "orphaned_admitted": [
+  "oracle_release_runtime_w11",
+  "oracle_release_runtime_w2",
+  "oracle_release_runtime_w3"
+ ],
+ "schema_version": "oracle-head-manifest-v1",
+ "tip": "oracle_release_runtime_w24"
+}

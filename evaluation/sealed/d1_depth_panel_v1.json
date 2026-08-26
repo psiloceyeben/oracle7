@@ -1,0 +1,24 @@
+{
+ "depth_score_d1": 0.0,
+ "methodology": "M13e2 withheld-combination pattern; co-occurrence-checked",
+ "panel": {
+  "chains": 60,
+  "negatives": 16
+ },
+ "preregistered": "score = gold + BOTH premise citations; declines honest; negatives must not be affirmed",
+ "results": {
+  "correct_with_premises": 0,
+  "declined": 55,
+  "gold_no_premises": 0,
+  "neg_false_yes": 0,
+  "neg_honest": 16,
+  "wrong": 5
+ },
+ "schema_version": "oracle-d1-depth-panel-v1",
+ "starting_line": "a depth claim begins with a sealed record of shallowness",
+ "tip": "oracle_release_runtime_w12",
+ "zero_model_gate": {
+  "lm_calls": 0,
+  "transformer_calls": 0
+ }
+}

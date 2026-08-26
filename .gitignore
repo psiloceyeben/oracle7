@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.sqlite
+*.sqlite3
+*.db
+*.npz
+*.tar.gz
+.env
+*_state/
+soul_queries.jsonl
+world_ledger*.jsonl

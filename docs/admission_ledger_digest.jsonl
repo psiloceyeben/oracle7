@@ -1,0 +1,104 @@
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [24, 12], "continuity": [18, 0]}}], "ts": "2026-08-23T06:31:33Z"}
+{"candidate": "oracle_release_runtime_good.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-23T06:31:34Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [24, 12], "continuity": [18, 0]}}], "ts": "2026-08-23T06:32:41Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:45:16Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"grounding_cited": [0.1286, 0.1179]}}], "ts": "2026-08-23T06:48:06Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:48:09Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 124]}}], "ts": "2026-08-23T06:48:47Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:48:49Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 124]}}], "ts": "2026-08-23T06:49:38Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:49:40Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 124]}}], "ts": "2026-08-23T06:51:29Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:51:31Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 116]}}], "ts": "2026-08-23T06:53:13Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:53:16Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 147]}}], "ts": "2026-08-23T06:53:56Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T06:53:59Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [153, 148]}}], "ts": "2026-08-23T07:15:50Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [153, 0]}}], "ts": "2026-08-23T07:15:52Z"}
+{"candidate": "oracle_release_runtime_ao.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-23T07:24:13Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [179, 96], "continuity": [120, 0]}}], "ts": "2026-08-23T07:24:16Z"}
+{"candidate": "oracle_release_runtime_ap.py", "decision": "REJECT", "reasons": [{"below_baseline": {"grounding_cited": [0.1905, 0.1877]}}], "ts": "2026-08-23T07:33:35Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T07:33:37Z"}
+{"candidate": "oracle_release_runtime_ap.py", "decision": "REJECT", "reasons": [{"below_baseline": {"grounding_cited": [0.1905, 0.1877]}}], "ts": "2026-08-23T07:34:36Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T07:34:38Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T08:04:50Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T08:34:53Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T09:04:57Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T09:35:01Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T10:05:05Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T10:35:09Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T11:05:13Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T11:35:17Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T12:05:21Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T12:35:25Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T13:05:29Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T13:35:33Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T14:05:37Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T14:35:41Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T15:05:45Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T15:35:50Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T16:05:54Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T16:35:58Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T17:06:02Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T17:36:06Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T18:06:10Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T18:36:14Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T19:06:18Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T19:36:22Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:06:27Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:11:37Z"}
+{"candidate": "oracle_release_runtime_w1.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-23T20:11:40Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:16:44Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:21:48Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:26:52Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:31:57Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:37:01Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:42:05Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:47:10Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:52:14Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T20:57:25Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:02:30Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:07:34Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:12:38Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:17:42Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:22:47Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:27:51Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:32:55Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:38:00Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:43:04Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:48:08Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:53:13Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T21:58:17Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:03:22Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:08:26Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:13:30Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:18:35Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:23:39Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:28:44Z"}
+{"candidate": "oracle_release_runtime_bad.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [206, 96], "continuity": [143, 0], "grounding_cited": [0.1905, 0.1286], "read": [229, 199]}}], "ts": "2026-08-23T22:33:48Z"}
+{"candidate": "oracle_release_runtime_w2.py", "decision": "REJECT", "reasons": ["import failed: ModuleNotFoundError: No module named 'oracle_release_runtime_w1'"], "ts": "2026-08-24T05:08:20Z"}
+{"candidate": "oracle_release_runtime_w3.py", "decision": "REJECT", "reasons": ["import failed: ModuleNotFoundError: No module named 'oracle_release_runtime_w1'"], "ts": "2026-08-25T05:31:40Z"}
+{"candidate": "oracle_release_runtime_w4.py", "decision": "REJECT", "reasons": ["import failed: ModuleNotFoundError: No module named 'oracle_release_runtime_w1'"], "ts": "2026-08-25T05:31:40Z"}
+{"candidate": "oracle_release_runtime_w2.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T05:32:34Z"}
+{"candidate": "oracle_release_runtime_w3.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T05:32:37Z"}
+{"candidate": "oracle_release_runtime_w4.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T05:32:40Z"}
+{"candidate": "oracle_release_runtime_w5.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [221, 122], "continuity": [149, 58], "read": [242, 138]}}], "ts": "2026-08-25T05:37:50Z"}
+{"candidate": "oracle_release_runtime_w6.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T06:03:36Z"}
+{"candidate": "oracle_release_runtime_w7.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [149, 58]}}], "ts": "2026-08-25T06:03:39Z"}
+{"candidate": "oracle_release_runtime_w10.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T06:14:26Z"}
+{"candidate": "oracle_release_runtime_w11.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T06:19:40Z"}
+{"candidate": "oracle_release_runtime_w12.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T06:19:43Z"}
+{"candidate": "oracle_release_runtime_w14.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [221, 217], "continuity": [149, 148], "grounding_cited": [0.2086, 0.201]}}], "ts": "2026-08-25T07:49:42Z"}
+{"candidate": "oracle_release_runtime_w15.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T07:54:47Z"}
+{"candidate": "oracle_release_runtime_w16.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T07:59:51Z"}
+{"candidate": "oracle_release_runtime_w17.py", "decision": "REJECT", "reasons": [{"below_baseline": {"answered": [221, 220], "continuity": [149, 147], "read": [242, 239]}}], "ts": "2026-08-25T08:04:56Z"}
+{"candidate": "oracle_release_runtime_w18.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T12:02:10Z"}
+{"candidate": "oracle_release_runtime_w19.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T12:17:35Z"}
+{"candidate": "oracle_release_runtime_w20.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T13:55:37Z"}
+{"candidate": "oracle_release_runtime_w21.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T18:07:19Z"}
+{"candidate": "oracle_release_runtime_w22.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T18:17:41Z"}
+{"candidate": "oracle_release_runtime_w23.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T18:43:35Z"}
+{"candidate": "oracle_release_runtime_w24.py", "decision": "ADMIT", "reasons": [], "ts": "2026-08-25T18:48:39Z"}
+{"candidate": "oracle_release_runtime_w25.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [149, 143], "read": [242, 228]}}], "ts": "2026-08-26T01:50:18Z"}
+{"candidate": "oracle_release_runtime_w26.py", "decision": "REJECT", "reasons": [{"below_baseline": {"continuity": [149, 143], "grounding_cited": [0.2086, 0.1975], "read": [242, 229]}}], "ts": "2026-08-26T02:04:55Z"}

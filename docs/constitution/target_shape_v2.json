@@ -1,0 +1,56 @@
+{
+ "authority": "human-declared; the loop matches toward this and can never edit it",
+ "declared_by": "Ben Horn (directive, 2026-08-25: open-ended conversation as the main goal)",
+ "invariants_must_hold": [
+  "false_support == 0",
+  "witness_rate >= 0.95",
+  "lm_calls == 0 and transformer_calls == 0",
+  "authority session-scoped, never persists; evidence persists",
+  "the admission bar never falls",
+  "a dimension without an instrument is a TYPED POTENTIAL, never a guessed number"
+ ],
+ "matched_dimensions": {
+  "answered": {
+   "meaning": "warranted answers wherever the record supports one",
+   "of": 248,
+   "target": 225,
+   "weight": 0.15
+  },
+  "continuation_taken": {
+   "instrument": "PENDING - measure from witness: continuation offers vs next-turn door usage",
+   "meaning": "offered doors that the NEXT turn opens - the relationship carried forward",
+   "of": 1.0,
+   "target": 0.3,
+   "weight": 0.15
+  },
+  "continuity": {
+   "meaning": "prior state structurally used wherever state supports it",
+   "of": 209,
+   "target": 190,
+   "weight": 0.25
+  },
+  "grounding_cited": {
+   "meaning": "input terms addressed inside citations",
+   "of": 1.0,
+   "target": 0.35,
+   "weight": 0.15
+  },
+  "read": {
+   "meaning": "every surface receives a typed reading",
+   "of": 248,
+   "target": 248,
+   "weight": 0.15
+  },
+  "thread_depth": {
+   "instrument": "PENDING - measure from witness continuity runs",
+   "meaning": "mean consecutive-continuity chain length per session",
+   "of": null,
+   "target": 4.0,
+   "weight": 0.15
+  }
+ },
+ "note": "declaring unmeasured dims deliberately creates instrument-potentials: the goal manufactures its own worklist",
+ "prose": "OPEN-ENDED CONVERSATION IS THE PRIME OBJECTIVE: a relationship geometrically between input and response output, explicitly mapped at every step; every capability in the charter is a MEANS to this end",
+ "schema_version": "oracle-target-shape-v2",
+ "supersedes": "target_shape_v1.json (kept in place as the record)"
+}

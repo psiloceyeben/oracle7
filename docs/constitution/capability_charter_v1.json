@@ -1,0 +1,241 @@
+{
+ "amended": "self_improvement_completion added 2026-08-25 per Ben directive (conversation-primacy declaration); capabilities are MEANS to the open-ended-conversation prime (target_shape_v2) | compositional_depth ladder added 2026-08-25 per Ben directive (prove it so it does not stay shallow) | media_publication added 2026-08-25 per Ben directive: the Oracle may FREELY POST videos it makes (V3), provenance-sealed, kill-switch retained",
+ "authority": "human-declared; the loop maps toward these and can never edit them; re-declaration requires the human; every milestone conversion passes the daemon gate",
+ "capabilities": {
+  "coding": {
+   "counts_as": "synthesized composition of verified primitives; template instantiation with per-slot justification; self-extension (authoring a new runtime route from its spec)",
+   "definition": "Given a typed specification, produce a program that passes the specification's declared tests, with the construction recorded step by step. Warrant = executable proof (tests passing) + construction trace - STRONGER than citation.",
+   "does_not_count": "retrieving a memorized snippet; emitting untested code; any program whose construction is not witnessed",
+   "milestones": [
+    {
+     "definition": "verified expression evaluation via the bounded calculator tool",
+     "id": "C1",
+     "status": "DONE (tool:calculator, M87 admission)"
+    },
+    {
+     "definition": "multi-step verified rewriting: simplify/transform expressions by typed rules, each step recorded with its rule",
+     "id": "C2",
+     "status": "OPEN"
+    },
+    {
+     "definition": "spec-to-function synthesis: compose verified primitives to satisfy declared property tests; gate-judged",
+     "id": "C3",
+     "status": "EMBRYONIC - the fold worker already authors gate-judged programs from templates; generalize from template-bound to spec-bound"
+    },
+    {
+     "definition": "self-extension from spec: given a route specification, author the runtime letter implementing it (the worker generalized to arbitrary route specs)",
+     "id": "C4",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "test_execution + construction_trace"
+  },
+  "compositional_depth": {
+   "anti_shallowness_laws": [
+    "rule folds over cache folds: a fold admits the EXTRACTION RULE querying the live corpus, not a frozen pair-list",
+    "depth dims enter the gate baseline once instrumented - shallow candidates then cannot move the numbers that count"
+   ],
+   "counts_as": "k-hop composition with all premises cited; honest declines on cross-spliced negatives; novel-surface transfer of admitted operators",
+   "definition": "Answers reachable ONLY by composing k admitted operators - the gold exists in no single corpus row (withheld-combination methodology, M13e2). Warrant = the full premise chain, every hop cited. Depth without false-answer discipline is not depth: corrupted chains must be declined.",
+   "does_not_count": "any answer whose gold co-occurs in a single corpus sentence (lookup-reachable); chains with uncited hops",
+   "milestones": [
+    {
+     "definition": "2-hop composition (made_of∘made_of, made_of∘kind), withheld combos, programmatic golds",
+     "id": "D1",
+     "status": "MEASURING - baseline panel running 2026-08-25; starting line sealed regardless of score"
+    },
+    {
+     "definition": "3-hop chains, same discipline",
+     "id": "D2",
+     "status": "OPEN"
+    },
+    {
+     "definition": "cross-relation composition (made_of∘part_of∘kind)",
+     "id": "D3",
+     "status": "OPEN"
+    },
+    {
+     "definition": "novel-surface transfer: admitted operators on unseen phrasings",
+     "id": "D4",
+     "status": "OPEN"
+    },
+    {
+     "definition": "arbitrary-k productive composition at conversational depth (the M13e2 claim at conversation level)",
+     "id": "D5",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "premise_chain_all_hops_cited + verified_withhold_on_negatives"
+  },
+  "grounded_open_qa": {
+   "counts_as": "everything the chain does under the standing laws",
+   "definition": "The core: cite, derive, or honestly decline over an attributed corpus, at conversational depth.",
+   "does_not_count": "any unwarranted assertion",
+   "milestones": [
+    {
+     "definition": "single-corpus QA with citations",
+     "id": "Q1",
+     "status": "DONE"
+    },
+    {
+     "definition": "multi-corpus (wiki + textbooks + world ledgers + WordNet + ConceptNet)",
+     "id": "Q2",
+     "status": "DONE (2026-08-24/25)"
+    },
+    {
+     "definition": "harder held-out panels so admissions show GAINS not only no-regression",
+     "id": "Q3",
+     "status": "OPEN - the standing panels-too-easy debt, now a charter milestone"
+    }
+   ],
+   "warrant_form": "citation | derivation | decline"
+  },
+  "image_generation": {
+   "counts_as": "diagram synthesis from data; scene composition from the op-tree vocabulary; style parameterization with declared parameters",
+   "definition": "Given a typed scene specification, emit a deterministic structured image (SVG or scene graph) in which EVERY visual element traces to a specification clause. Warrant = spec-element correspondence, auditable per element.",
+   "does_not_count": "statistical texture synthesis; any pixel whose provenance cannot be named; style imitation of a living artist",
+   "milestones": [
+    {
+     "definition": "data diagram synthesis: chart/graph SVG from typed data with per-mark provenance",
+     "id": "I1",
+     "status": "OPEN"
+    },
+    {
+     "definition": "scene composition from the world op-tree vocabulary (structuralBuildingTree already realizes language->structure in the engine; bring it under the gate as a runtime capability)",
+     "id": "I2",
+     "status": "EMBRYONIC - exists in wander-engine, ungated"
+    },
+    {
+     "definition": "parameterized composition: style as declared parameters, every choice witnessed",
+     "id": "I3",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "spec_correspondence_map"
+  },
+  "long_horizon_planning": {
+   "counts_as": "goal decomposition via GoalManager; multi-turn composition (M89b panel); replanning recorded as conversions",
+   "definition": "Decompose a declared goal into typed steps, execute across turns with per-step verification and durable bounded history, replan on failure. Warrant = the witness trajectory itself.",
+   "does_not_count": "single-turn answers restyled as plans; unverified step claims",
+   "milestones": [
+    {
+     "definition": "nine-turn composition with durable history",
+     "id": "P1",
+     "status": "DONE (M89b: 8/8 on BB and BW)"
+    },
+    {
+     "definition": "goal-declared decomposition: a stated goal becomes typed steps, each gated",
+     "id": "P2",
+     "status": "PARTIAL (GoalManager admitted; decomposition route open)"
+    },
+    {
+     "definition": "failure-adaptive replanning with recorded plan revisions",
+     "id": "P3",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "witnessed_trajectory"
+  },
+  "mathematical_reasoning": {
+   "counts_as": "arithmetic chains via the verified calculator; algebraic rewriting by typed rules; the transitive-composition machinery (M37) applied to quantitative relations",
+   "definition": "Multi-step derivation with every step carrying its rule and premises, composing to a verified conclusion. Warrant = premise chain + per-step rule + terminal verification where computable.",
+   "does_not_count": "answer-only arithmetic; steps without named rules",
+   "milestones": [
+    {
+     "definition": "single verified computation",
+     "id": "M1",
+     "status": "DONE (calculator)"
+    },
+    {
+     "definition": "multi-step chains: each intermediate verified, chain recorded",
+     "id": "M2",
+     "status": "OPEN"
+    },
+    {
+     "definition": "word-problem decomposition: typed reading -> plan -> verified steps",
+     "id": "M3",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "derivation_chain + tool_verification"
+  },
+  "media_publication": {
+   "counts_as": "ledger-narrated productions; world-record footage; depth-result explainers; all self-produced",
+   "definition": "Deterministic video synthesis from the model's own warranted record (admission ledger narration, world events, depth results) through the Spore pipeline, with AUTONOMOUS publication to the designated oracle7 media section. Warrant = a sealed provenance record per published item: source ledger range, pipeline config hash, output hash.",
+   "does_not_count": "footage without ledger provenance; human-scripted content presented as model-produced; any post lacking its sealed provenance record",
+   "milestones": [
+    {
+     "definition": "narrated admission video: self_improve fold text -> Spore render, manual trigger",
+     "id": "V1",
+     "status": "OPEN"
+    },
+    {
+     "definition": "nightly automated production from the day's ledger",
+     "id": "V2",
+     "status": "OPEN"
+    },
+    {
+     "definition": "FREE POSTING: autonomous publication to the oracle7 media section with no per-item human approval; Ben-owned kill-switch flag checked before each post; provenance sealed per post",
+     "id": "V3",
+     "status": "OPEN - autonomy granted by Ben 2026-08-25"
+    }
+   ],
+   "warrant_form": "provenance_seal (source range + config hash + output hash) per published item"
+  },
+  "multilingual_transfer": {
+   "counts_as": "typed readings per language mapping to shared operators; verified negative controls",
+   "definition": "Same-intent parsing and warranted response across surface languages, with unknown-surface WITHHOLDING verified against corpus-checked negatives (the M113 law).",
+   "does_not_count": "string translation without typed readings; any run whose negative control was not corpus-verified",
+   "milestones": [
+    {
+     "definition": "EN/ES/FR same-intent parsing convergence",
+     "id": "L1",
+     "status": "UNVERIFIED (M113 VOID - contaminated negative; clean rerun owed, Codex's lane)"
+    },
+    {
+     "definition": "unknown-surface withhold with corpus-verified negatives",
+     "id": "L2",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "shared_operator_dispatch + verified_withhold"
+  },
+  "self_improvement_completion": {
+   "counts_as": "gated self-extension of generators, panels, corpus, maintenance, and exchange",
+   "definition": "The loop able to improve every part of itself EXCEPT the constitution (laws, gate criterion, shape, charter - human-signed, non-self-modifiable by design).",
+   "does_not_count": "any modification of the admission law, the laws, or human-signed documents",
+   "milestones": [
+    {
+     "definition": "family-generator authoring: the worker authors NEW fold-family generators from residue patterns, gated",
+     "id": "S1",
+     "status": "OPEN - the deepest gap; one induced template exists, unproven"
+    },
+    {
+     "definition": "self-growing panels: harder held-out authored from failures + world residue; anti-Goodhart: mutation-tested + human-signed",
+     "id": "S2",
+     "status": "OPEN (subsumes grounded_open_qa.Q3)"
+    },
+    {
+     "definition": "corpus admission loop: world/curriculum knowledge admitted into the corpus under the admission law, provenance-carried",
+     "id": "S3",
+     "status": "OPEN"
+    },
+    {
+     "definition": "janitor organ: self-maintenance (rotations, health, RAM) as an observed gated family",
+     "id": "S4",
+     "status": "OPEN"
+    },
+    {
+     "definition": "automated lineage exchange on cadence (M59 machinery, merge gates), signatures remaining human",
+     "id": "S5",
+     "status": "OPEN"
+    }
+   ],
+   "warrant_form": "gate_judgment + sealed_artifact per extension"
+  }
+ },
+ "declared_by": "Ben Horn (directive, 2026-08-25)",
+ "law": "each capability is defined in terms NATIVE to this architecture (zero neural network, warrant mandatory); a capability without a warrant form is not admitted to this charter",
+ "mapping_rule": "OPEN and EMBRYONIC milestones are mined into the potentials fold each epoch (kind: charter_milestone); a milestone converts to DONE only through a sealed gate-judged artifact; the charter file itself is edited only by the human",
+ "schema_version": "oracle-capability-charter-v1"
+}
