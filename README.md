@@ -4,7 +4,7 @@
 and shows its work on every answer.**
 
 Live instance: **[prometheus7.com](https://prometheus7.com)** (the oracle7 desk) ·
-[@prometheus7even](https://x.com/prometheus7even)
+[@oracle7vn](https://x.com/oracle7vn)
 
 ---
 
