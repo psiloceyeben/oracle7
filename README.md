@@ -73,7 +73,7 @@ attribution. The runtime refuses to assert anything it cannot cite into them.
 ## Status
 
 Prepared 2026-08-25 for release. Final integration pass in progress (see
-`RELEASE_TODO_FOR_CODEX.md`). Live instance: **prometheus7.com** (oracle7).
+`the release notes`). Live instance: **prometheus7.com** (oracle7).
 
 ---
 *A Prometheus7 Research Institute release — watch an AI built without transformers
