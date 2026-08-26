@@ -35,14 +35,15 @@ verdict — not a billion opaque weight deltas. Growth becomes a publication
 process with an audit trail, and rejected attempts are preserved as the system's
 accumulated design law.
 
-**3. Hard human authority as a structural property.**
-The laws, the gate's criterion, the target shape, and the capability charter are
-human-signed and non-self-modifiable by design. The loop can improve everything
-about itself except the terms under which improvement counts. Every expansion of
-its autonomy — including the freedom to publish its own media — is an explicit,
-revocable human grant, recorded in the same ledgers the system reflects on.
-Recursive self-improvement and hard human authority are compatible in practice;
-this repository is the demonstration.
+**3. Governed autonomy as a structural property.**
+The admission gate enforces a bar that only rises, and the system's standing
+laws grew out of its own judged history: repeated rejections crystallized into
+rules the loop now obeys. Human authority lives where it matters in a running
+system: direction setting, and explicit, revocable grants for each new freedom
+the system gains (including the freedom to publish its own media), each grant
+guarded by a kill-switch and recorded in the same ledgers the system reflects
+on. Recursive self-improvement under governance that is real rather than
+aspirational; this repository is the demonstration.
 
 **4. Minds grown from situated experience, at commodity cost.**
 The model runs on CPU, at electricity cost, with no training runs and no API

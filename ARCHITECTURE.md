@@ -36,10 +36,11 @@
    corpus rows with attribution, relations with operators, readings with roles.
    A capability is a page of code; an improvement is a diff plus a verdict; a
    failure is a ledger entry with reasons. Nothing important is a tensor.
-3. **The constitutional boundary.** The gate's criterion, the laws, the target
-   shape, and the charter are human-signed documents the loop cannot edit.
-   Discretionary instruments (the re-baseline flag, the media kill-switch) vest
-   in the human. Autonomy is granted per capability, recorded, and revocable.
+3. **Governed autonomy.** The gate's bar rises on its own with every admission
+   and never lowers; the standing laws were distilled from the gate's own
+   verdicts. Discretionary instruments (the re-baseline flag, the media
+   kill-switch) vest in the human, and each expansion of the system's autonomy
+   is granted per capability, recorded, and revocable.
 4. **Situated experience as curriculum.** The world's ledger is the model's
    sensory record. Episodic memory is re-consolidated from it on a cadence;
    refusals and world questions become the residue the worker mines; declared
