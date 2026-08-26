@@ -52,6 +52,9 @@ becomes its episodic memory and whose unanswerable questions become its
 curriculum. Capability accrues from experience and evidence, not from gradient
 descent over scraped text. This is the economics of intelligence turned inside
 out: not a frontier few can afford, but a form of mind an individual can grow.
+We believe transformers are not the only way to build a mind, and that an
+alternative architecture of this kind benefits humanity as a whole: it frees
+intelligence from dependence on centralized companies and massive data centers.
 
 **5. A plurality of minds, not a single frontier.**
 This architecture is not trying to be a transformer. It is a different *kind* of
