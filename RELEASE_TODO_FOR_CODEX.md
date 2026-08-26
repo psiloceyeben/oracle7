@@ -14,7 +14,7 @@ digest copied, README/ARCHITECTURE written. Remaining before `git push` + releas
    `ORACLE_BENCH_BUILD`, `SOUL_STATE_ROOT`).
 3. **Path scrub**: replace absolute `/opt/oracle-clm/...` defaults with
    repo-relative/env-var resolution in the organs (worker/daemon/server/harness).
-   Grep-verify no box IPs (`95.217.*`, `89.167.*`) or tokens anywhere in the tree.
+   Grep-verify no box IPs (`BOX-A-IP`, `BOX-C-IP`) or tokens anywhere in the tree.
 4. **corpora/README.md** — write the build instructions (simple-Wikipedia dump ->
    build script, OpenStax download + `textbook_build_v1.py`, WordNet/ConceptNet
    compile, bench build) with source URLs and licenses of each corpus.
